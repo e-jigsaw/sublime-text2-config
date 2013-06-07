@@ -1,0 +1,18 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"Git",
+		"GitGutter",
+		"Jade",
+		"JsFormat",
+		"LaTeXTools",
+		"LESS",
+		"Package Control",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeCodeIntel",
+		"Theme - Phoenix"
+	]
+}
